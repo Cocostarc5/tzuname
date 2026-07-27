@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Sa traiti
 ---
+Lu' Pateu ii place pula
